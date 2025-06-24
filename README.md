@@ -6,4 +6,4 @@ My daily consistency tracker
 ![GitHub Contribution Graph (Dark)](https://ghchart.rshah.org/green/HARRYlr150u)
 ## 📊 My To-Do Progress
 
-![Pie Chart](https://quickchart.io/chart?c={type:'pie',data:{labels:['Done','Pending'],datasets:[{data:[2,1]}]}})
+![Pie Chart](https://quickchart.io/chart?c={type:'pie',data:{labels:['Done','Pending'],datasets:[{data:[3,5]}]}})
