@@ -4,7 +4,7 @@ I AM GONNA TRY TO UNDERSTAND AND ELABORATE SOME OF THE CORE MECHANICAL TOPICS WH
 -----------🔧 Core Mechanical Topics (Good for strong fundamentals)
                  -Heat Transfer Enhancement Techniques                         ➡️🟡🔴
 
-                 -Vibration Analysis of Mechanical Structures                  ➡️🟡
+                 -Vibration Analysis of Mechanical Structures                  ➡️🟡🔴
 
                  -Failure Analysis of Mechanical Components
 
