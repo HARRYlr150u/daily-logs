@@ -6,7 +6,7 @@ I AM GONNA TRY TO UNDERSTAND AND ELABORATE SOME OF THE CORE MECHANICAL TOPICS WH
 
                  -Vibration Analysis of Mechanical Structures                  ➡️🟡🔴
 
-                 -Failure Analysis of Mechanical Components                    ➡️🟡
+                 -Failure Analysis of Mechanical Components                    ➡️🟡🔴
 
                  -Thermal Stress Analysis in IC Engines
 
