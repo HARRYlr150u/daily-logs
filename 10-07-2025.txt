@@ -8,9 +8,11 @@ I AM GONNA TRY TO UNDERSTAND AND ELABORATE SOME OF THE CORE MECHANICAL TOPICS WH
 
                  -Failure Analysis of Mechanical Components                    ➡️🟡🔴
 
-                 -Thermal Stress Analysis in IC Engines
+                 -Thermal Stress Analysis in IC Engines                        ➡️ 
 
                  -Fatigue Testing of Metals or Composites
+
+GIF URL: https://github.com/yourusername/yourrepo/assets/demo.gif
 
 AND ALSO I AM GONNA MAKE SURE THAT I BETTER PRACTICE MATHS AND PHYSICS TOO AND THE THING I AM GONNA DO IN THOSE SUBJECTS IS GIVEN BELOW..
 1- CONTINUED WITH THERMAL PROPERTIES OF MATTER FROM AKASH MODULE..
