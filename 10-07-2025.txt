@@ -8,9 +8,9 @@ I AM GONNA TRY TO UNDERSTAND AND ELABORATE SOME OF THE CORE MECHANICAL TOPICS WH
 
                  -Failure Analysis of Mechanical Components                    ➡️🟡🔴
 
-                 -Thermal Stress Analysis in IC Engines                        ➡️🟡 
+                 -Thermal Stress Analysis in IC Engines                        ➡️🟡🔴
 
-                 -Fatigue Testing of Metals or Composites
+                 -Fatigue Testing of Metals or Composites                      ➡️
 
 GIF URL: https://github.com/yourusername/yourrepo/assets/demo.gif
 
